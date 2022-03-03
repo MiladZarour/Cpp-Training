@@ -1,0 +1,3 @@
+﻿  21Functions.cpp
+D:\YrkesHögskola\C++Course\21Functions\21Functions.cpp(7,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  21Functions.vcxproj -> D:\YrkesHögskola\C++Course\21Functions\Debug\21Functions.exe

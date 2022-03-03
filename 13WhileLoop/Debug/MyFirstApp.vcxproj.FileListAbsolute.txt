@@ -1,0 +1,16 @@
+D:\YrkesHögskola\C++Course\MyFirstApp\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\2Variables\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\3DataTypes\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\4DataTypeOverflow\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\5ASCII TABEL\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\6SimplePrograme\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\7IfElseStatment\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\7IfElseStatment - Copy\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\8OperationC++(Arithmetic,relational...etc)\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\9SwapTwoVariables\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\9-2SwapTwoVariables\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\10BmiCalculator\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\11Ternary(Conditional) operator\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\12SwitchCaseStatment 1\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\12SwitchCaseStatment 2\Debug\MyFirstApp.exe
+D:\YrkesHögskola\C++Course\13WhileLoop\Debug\MyFirstApp.exe
